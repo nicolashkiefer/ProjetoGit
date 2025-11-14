@@ -3,3 +3,5 @@
 ***
 
 Vídeo aula sobre Git e GitHub na Prática da Rafaella ballerini
+
+Alteração realizada no Readme
